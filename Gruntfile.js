@@ -51,7 +51,7 @@ module.exports = function(grunt) {
 		mochacov: {
 			test: {
 				options: {
-					reporter: '<%= (grunt.option("cc") ? "html-cov" : "spec") %>',
+					reporter: '<%= (grunt.option("cc") ? "html-cov" : "spec") %>'
 				}
 			},
       options: {

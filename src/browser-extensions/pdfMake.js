@@ -12,6 +12,12 @@ var defaultClientFonts = {
 		bold: 'Roboto-Medium.ttf',
 		italics: 'Roboto-Italic.ttf',
 		bolditalics: 'Roboto-Italic.ttf'
+	},
+	Ubuntu: {
+		normal: 'Ubuntu-L.ttf',
+		bold: 'Ubuntu-B.ttf',
+		italics: 'Ubuntu-LI.ttf',
+		bolditalics: 'Ubuntu-BI.ttf'
 	}
 };
 
